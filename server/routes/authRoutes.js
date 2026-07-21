@@ -14,7 +14,7 @@ const generateToken = (user) => {
 }
 
 
-// POST /api/auth/register
+// POST /api/auth/register  
 
 router.post("/register", async (req, res) => {
   try {
