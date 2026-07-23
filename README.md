@@ -7,7 +7,7 @@ The frontend is built with React/Vite and the backend is powered by Node.js and 
 ---
 
 ## 🚀 Live Demo
-- **Frontend (Vercel):** [https://eventhub-mern-iota.vercel.app](https://eventhub-mern-iota.vercel.app)
+- **Frontend (render):** [(https://eventhub-mern-frontend.onrender.com)](https://eventhub-mern-frontend.onrender.com)
 - **Backend API (Render):** [https://eventhub-mern-txy5.onrender.com](https://eventhub-mern-txy5.onrender.com)
 
 ---
