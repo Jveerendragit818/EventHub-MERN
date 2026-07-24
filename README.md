@@ -214,31 +214,7 @@ Since Render's free plan uses an ephemeral filesystem, uploaded files may be rem
 
 For a production-ready application, cloud storage services such as **Cloudinary** or **AWS S3** are recommended.
 
----
 
-## 📸 Screenshots
-
-You can add screenshots of the following pages:
-
-- Home Page
-- Login Page
-- Register Page
-- Organizer Dashboard
-- Create Event
-- Event Details
-- My Schedule
-
----
-
-## Future Improvements
-
-- Email notifications
-- PDF ticket generation
-- Cloudinary image storage
-- Event search and filters
-- Event categories
-- Payment integration
-- Admin analytics dashboard
 
 ---
 
